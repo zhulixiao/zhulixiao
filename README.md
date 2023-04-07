@@ -1,8 +1,7 @@
 ___
-### Hi there, I am [Lixiao (Sean) Zhu](https://www.zhulixiao.com "Lixiao Zhu's Personal Website")👋 ###
+# Hi there, I am [Lixiao (Sean) Zhu](https://www.zhulixiao.com "Lixiao Zhu's Personal Website")👋 #
 
-I am a passionate researcher with a focus on ***human-robot interaction (HRI)*** and its implications for society. 
-
+### I am a passionate researcher with a focus on ***human-robot interaction (HRI)*** :robot: :people_holding_hands: and its implications for society. 
 ___
 
 <img align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=zhulixiao&count_private=true&show_icons=true&theme=light" />
