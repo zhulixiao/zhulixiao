@@ -1,9 +1,4 @@
 ___
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&center=true&vCenter=true&width=500&color=4C71F2&lines=+Simplicity+>+Complexity&repeat=true&duration=10000" alt="Typing SVG" />
-</div>
-
-___
 # Hi there, I am [Lixiao (Sean) Zhu](https://www.zhulixiao.com "Lixiao Zhu's Personal Website")👋 #
 
 ### I am a passionate researcher with a focus on ***human-robot interaction (HRI)*** :robot: and its implications for society. 
